@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [epic] AUTHORIZATION [dbo]
+GO

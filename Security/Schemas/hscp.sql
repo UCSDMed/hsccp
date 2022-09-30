@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [hscp] AUTHORIZATION [dbo]
+GO
