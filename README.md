@@ -1,2 +1,1 @@
-# hsccp
- Health Science Clinical Compensation Plan Model
+# Health Science Clinical Compensation Plan Model (HSCCP)
