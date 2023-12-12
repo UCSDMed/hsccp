@@ -1,0 +1,1 @@
+hsccp_TABLES_DROPMAKE
